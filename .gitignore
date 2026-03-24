@@ -1,0 +1,13 @@
+# Ignore vitual enviornment
+venv/
+.venv
+
+# Ignore ds_store files
+.DS_Store
+
+# Ignore python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore hardware configurations info
+/hardware
